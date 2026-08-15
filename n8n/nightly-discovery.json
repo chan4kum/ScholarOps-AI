@@ -1,0 +1,57 @@
+{
+  "name": "opportunity-intel-nightly",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 24
+            }
+          ]
+        }
+      },
+      "id": "cron-nightly",
+      "name": "Every 24h",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8000/api/ops/nightly",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-Ops-Secret",
+              "value": "={{ $env.OPS_WEBHOOK_SECRET }}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{\"run_search\": true}"
+      },
+      "id": "http-nightly",
+      "name": "POST ops nightly",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [280, 0]
+    }
+  ],
+  "connections": {
+    "Every 24h": {
+      "main": [[{ "node": "POST ops nightly", "type": "main", "index": 0 }]]
+    }
+  },
+  "meta": {
+    "description": "Clock only. Scoring and Telegram live in the Python API, not in n8n nodes."
+  }
+}

@@ -1,0 +1,69 @@
+# Discovery configuration — ScholarOps AI
+#
+# All 18 structured sources are queried directly in sources.py (ALL_SOURCE_FUNCTIONS).
+# This file controls:
+#   1. Extra RSS feeds beyond the built-in 18 (add under rss_feeds)
+#   2. Web search augmentation terms and site hints (used when structured sources are thin)
+#   3. Domains to skip in web search results
+
+# ---------------------------------------------------------------------------
+# Extra RSS feeds (optional — built-in sources need no entry here)
+# ---------------------------------------------------------------------------
+rss_feeds: []
+  # Example: add an institutional feed
+  # - name: my_university
+  #   url: "https://jobs.myuniversity.edu/rss?q={query}"
+
+# ---------------------------------------------------------------------------
+# Web search augmentation
+# Used by pipeline._collect_search_hits when structured sources return < min_results
+# ---------------------------------------------------------------------------
+web_search:
+  extra_terms:
+    - "PhD"
+    - "doctoral"
+    - "fully funded"
+    - "stipend"
+    - "fellowship"
+
+  # Site hints for DuckDuckGo / Brave / Tavily queries
+  # Covers all 18 sources + additional research career boards
+  site_hints:
+    # Global & Pan-European
+    - site:euraxess.ec.europa.eu
+    - site:findaphd.com
+    - site:phdportal.eu
+    - site:academicpositions.eu
+    - site:academictransfer.com
+    - site:myscience.org
+    # Country-specific
+    - site:jobs.ac.uk
+    - site:daad.de
+    - site:jobbnorge.no
+    - site:workindenmark.dk
+    - site:scholarshipdb.net
+    # Scientific & research career boards
+    - site:nature.com/naturecareers
+    - site:jobs.sciencecareers.org
+    - site:higheredjobs.com
+    # Fellowship aggregators
+    - site:profellow.com
+    - site:researchtweet.com
+    - site:fellowshipbard.com
+
+# ---------------------------------------------------------------------------
+# Domains to skip entirely in web search results
+# (ToS-restricted, social media, or low-signal aggregators)
+# ---------------------------------------------------------------------------
+skip_domains:
+  - linkedin.com
+  - facebook.com
+  - twitter.com
+  - x.com
+  - youtube.com
+  - pinterest.com
+  - researchgate.net   # ToS restricted for scraping
+  - academia.edu
+  - quora.com
+  - reddit.com
+  - medium.com

@@ -1,0 +1,46 @@
+# Role → provider. Agents only see role names, never vendor SDKs.
+
+roles:
+  extract:
+    provider: groq
+    model: openai/gpt-oss-20b
+    thinking: disabled
+    notes: Fast JSON extraction. Groq Llama 3.x IDs deprecate 2026-08-16.
+
+  reason:
+    provider: deepseek
+    model: deepseek-v4-flash
+    thinking: disabled
+    notes: Fit scores and evidence selection. Legacy alias deepseek-chat retired 2026-07-24.
+
+  draft:
+    provider: deepseek
+    model: deepseek-v4-flash
+    thinking: enabled
+    reasoning_effort: high
+    notes: Proposals/SOP. Same model as reason, thinking on. Do not default to v4-pro (cost).
+
+  polish:
+    provider: groq
+    model: qwen/qwen3.6-27b
+    thinking: disabled
+    enabled_env: GROQ_POLISH_ENABLED
+    notes: Optional rewrite. Off by default. Not xAI Grok.
+
+  embed:
+    provider: huggingface
+    model: BAAI/bge-small-en-v1.5
+    notes: >
+      Semantic matching via HF Inference API (httpx REST, no SDK).
+      384-dim normalised vectors. Requires HF_TOKEN env var.
+      Falls back to 256-dim hash-trick locally when token is absent.
+
+  fallback:
+    provider: ollama
+    model: qwen2.5:7b
+    thinking: disabled
+
+# Empty = all countries. Do not add a new allowlist. YAML false trap: never write bare NO.
+target_countries: []
+
+excluded_countries: []

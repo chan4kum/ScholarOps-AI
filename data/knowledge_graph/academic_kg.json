@@ -1,0 +1,3085 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "node_type": "Candidate",
+      "name": "Chandan Kumar",
+      "degree": "MSc Data Science (Distinction)",
+      "summary": "Chandan Kumar holds an MSc in Data Science (Distinction) from the University of Hertfordshire, with a thesis on optimizing ensemble learning for diabetes prediction. He has over 8 years of industry experience in AI, ML, and software engineering, including roles at Boeing, Deloitte, EY, and HCL, focusing on cloud-native architectures, generative AI, and agentic pipelines. He has a working paper on 'Governing Responsible and Sustainable AI Across the Lifecycle' and is interested in PhD research at the intersection of AI and regulated industries.",
+      "id": "candidate:me"
+    },
+    {
+      "node_type": "Skill",
+      "name": "artificial intelligence",
+      "id": "skill:artificial intelligence"
+    },
+    {
+      "node_type": "Skill",
+      "name": "machine learning",
+      "id": "skill:machine learning"
+    },
+    {
+      "node_type": "Skill",
+      "name": "data science",
+      "id": "skill:data science"
+    },
+    {
+      "node_type": "Skill",
+      "name": "python",
+      "id": "skill:python"
+    },
+    {
+      "node_type": "Skill",
+      "name": "pytorch",
+      "id": "skill:pytorch"
+    },
+    {
+      "node_type": "Skill",
+      "name": "scikit-learn",
+      "id": "skill:scikit-learn"
+    },
+    {
+      "node_type": "Skill",
+      "name": "langgraph",
+      "id": "skill:langgraph"
+    },
+    {
+      "node_type": "Skill",
+      "name": "langchain",
+      "id": "skill:langchain"
+    },
+    {
+      "node_type": "Skill",
+      "name": "generative ai",
+      "id": "skill:generative ai"
+    },
+    {
+      "node_type": "Skill",
+      "name": "multi-agent systems",
+      "id": "skill:multi-agent systems"
+    },
+    {
+      "node_type": "Skill",
+      "name": "ensemble learning",
+      "id": "skill:ensemble learning"
+    },
+    {
+      "node_type": "Skill",
+      "name": "probabilistic modeling",
+      "id": "skill:probabilistic modeling"
+    },
+    {
+      "node_type": "Skill",
+      "name": "uncertainty quantification",
+      "id": "skill:uncertainty quantification"
+    },
+    {
+      "node_type": "Skill",
+      "name": "differential privacy",
+      "id": "skill:differential privacy"
+    },
+    {
+      "node_type": "Skill",
+      "name": "apache airflow",
+      "id": "skill:apache airflow"
+    },
+    {
+      "node_type": "Skill",
+      "name": "pyspark",
+      "id": "skill:pyspark"
+    },
+    {
+      "node_type": "Skill",
+      "name": "chromadb",
+      "id": "skill:chromadb"
+    },
+    {
+      "node_type": "Skill",
+      "name": "vector databases",
+      "id": "skill:vector databases"
+    },
+    {
+      "node_type": "Skill",
+      "name": "azure",
+      "id": "skill:azure"
+    },
+    {
+      "node_type": "Skill",
+      "name": "aws",
+      "id": "skill:aws"
+    },
+    {
+      "node_type": "Skill",
+      "name": "docker",
+      "id": "skill:docker"
+    },
+    {
+      "node_type": "Skill",
+      "name": "kubernetes",
+      "id": "skill:kubernetes"
+    },
+    {
+      "node_type": "Skill",
+      "name": "linux",
+      "id": "skill:linux"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "artificial intelligence",
+      "id": "interest:artificial intelligence"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "machine learning",
+      "id": "interest:machine learning"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "and data science: trustworthy & responsible ai",
+      "id": "interest:and data science: trustworthy & responsible ai"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "agentic systems",
+      "id": "interest:agentic systems"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "foundation models",
+      "id": "interest:foundation models"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "data-efficient & probabilistic machine learning",
+      "id": "interest:data-efficient & probabilistic machine learning"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "uncertainty quantification",
+      "id": "interest:uncertainty quantification"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "ensemble learning on high-dimensional ehr data",
+      "id": "interest:ensemble learning on high-dimensional ehr data"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "ai safety & governance (eu ai act)",
+      "id": "interest:ai safety & governance (eu ai act)"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "deep learning",
+      "id": "interest:deep learning"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "differential privacy",
+      "id": "interest:differential privacy"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "multi-agent orchestration",
+      "id": "interest:multi-agent orchestration"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "satellite & geospatial data science",
+      "id": "interest:satellite & geospatial data science"
+    },
+    {
+      "node_type": "ResearchInterest",
+      "name": "mlops and distributed ai pipelines",
+      "id": "interest:mlops and distributed ai pipelines"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "MSc Data Science Distinction",
+      "quote": "MSc Data Science Distinction, 8+ YOE Applied AI & Cloud Architecture",
+      "id": "evidence:EV-1"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Link\u00f6ping University (WASP) \u2013 Generative Modeling for Data-Efficient ML (LiU-2026-02831)",
+      "quote": "Generative Modeling for Data-Efficient ML *(Ref: LiU-2026-02831)*",
+      "id": "evidence:EV-2"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Forschungszentrum J\u00fclich (ICE-3) \u2013 Air Pollutant Satellite Retrievals & Emission Optimization (HDS-LEE)",
+      "quote": "Air Pollutant Satellite Retrievals & Emission Optimization *(HDS-LEE)*",
+      "id": "evidence:EV-3"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Blekinge Institute of Technology \u2013 Requirements Engineering, AI and Security (BTH3 2026/64)",
+      "quote": "Requirements Engineering, AI and Security *(Ref: BTH3 2026/64)*",
+      "id": "evidence:EV-4"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Chalmers Univ. of Technology \u2013 Trustworthy & Resilient Automotive Cybersecurity (2026-0134)",
+      "quote": "Trustworthy & Resilient Automotive Cybersecurity *(Ref: 2026-0134)*",
+      "id": "evidence:EV-5"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Chalmers Univ. of Technology \u2013 Data-Driven Product Realization (DRIVE PR) (2026-0391)",
+      "quote": "Data-Driven Product Realization (DRIVE PR) *(Ref: 2026-0391)*",
+      "id": "evidence:EV-6"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "TU Delft & BFH \u2013 AI- and Satellite-based Weather Forecasting (Energy Weather Lab)",
+      "quote": "AI- and Satellite-based Weather Forecasting *(Energy Weather Lab)*",
+      "id": "evidence:EV-7"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Action Checklist \u2013 Submit Link\u00f6ping WASP application",
+      "quote": "Submit Link\u00f6ping WASP (Ref: LiU-2026-02831) \u2013 Upload CV and Cover Letter, send outreach email",
+      "id": "evidence:EV-8"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Action Checklist \u2013 Submit FZ J\u00fclich ICE-3 application",
+      "quote": "Submit FZ J\u00fclich ICE-3 \u2013 Upload CV and Cover Letter, send outreach email",
+      "id": "evidence:EV-9"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (MSc) in Data Science \u2013 Distinction",
+      "quote": "Master of Science (MSc) in Data Science \u2014 Distinction, University of Hertfordshire, London, UK, Jan 2023 \u2013 Jul 2024",
+      "id": "evidence:EV-10"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Bachelor of Technology in Information Technology",
+      "quote": "Bachelor of Technology in Information Technology, SRM University, Chennai, India, Aug 2009 \u2013 Jun 2013",
+      "id": "evidence:EV-11"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "publication",
+      "content": "Working Paper: Governing Responsible and Sustainable AI Across the Lifecycle",
+      "quote": "Working Paper: Governing Responsible and Sustainable AI Across the Lifecycle",
+      "id": "evidence:EV-12"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Manager (AI Architecture & Generative Workflows) at EY India",
+      "quote": "Manager (AI Architecture & Generative Workflows) | EY India | Mar 2026 \u2013 Present",
+      "id": "evidence:EV-13"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Generative AI",
+      "quote": "Technical & Research Competencies \u2013 Machine Learning & Modeling: Generative AI",
+      "id": "evidence:EV-14"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (Distinction) in Data Science, University of Hertfordshire",
+      "quote": "Master of Science (Distinction) in Data Science from the University of Hertfordshire",
+      "id": "evidence:EV-15"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Generative modeling for data-efficient machine learning",
+      "quote": "Generative Modeling for Data-Efficient Machine Learning",
+      "id": "evidence:EV-16"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Python, Linux, Git, and distributed computing frameworks",
+      "quote": "advanced programming proficiency in Python, Linux, Git, and distributed computing frameworks",
+      "id": "evidence:EV-17"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "publication",
+      "content": "Governing Responsible and Sustainable AI Across the Lifecycle",
+      "quote": "Governing Responsible and Sustainable AI Across the Lifecycle",
+      "id": "evidence:EV-18"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "roles at EY, Deloitte, and Boeing",
+      "quote": "roles at EY, Deloitte, and Boeing",
+      "id": "evidence:EV-19"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "project",
+      "content": "Generative AI and agentic pipelines using LangGraph and PyTorch",
+      "quote": "architected generative AI and agentic pipelines using LangGraph and PyTorch",
+      "id": "evidence:EV-20"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "MSc in Data Science (Distinction) from the UK",
+      "quote": "I hold an MSc in Data Science (Distinction) from the UK",
+      "id": "evidence:EV-21"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Master\u2019s thesis focused on uncertainty\u2011aware learning and statistical robustness in high\u2011dimensional, constrained datasets",
+      "quote": "My Master\u2019s thesis focused on uncertainty\u2011aware learning and statistical robustness in high\u2011dimensional, constrained datasets.",
+      "id": "evidence:EV-22"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Generative workflows and context\u2011optimization systems focusing on data efficiency, variance reduction, and adversarial robustness in PyTorch and Python",
+      "quote": "I have architected generative workflows and context\u2011optimization systems, focusing on data efficiency, variance reduction, and adversarial robustness in PyTorch and Python.",
+      "id": "evidence:EV-23"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Generative modeling, synthetic data pipelines, differential privacy, adversarial robustness",
+      "quote": "Your project\u2019s objective of reducing required training set sizes through generative modeling, synthetic data, and differential privacy represents the exact research direction I wish to pursue.",
+      "id": "evidence:EV-24"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "8+ years of applied AI and software engineering experience at EY, Deloitte, Boeing",
+      "quote": "I hold an MSc in Data Science (Distinction) from the UK and bring 8+ years of applied AI and software engineering experience (EY, Deloitte, Boeing).",
+      "id": "evidence:EV-25"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (MSc) in Data Science \u2014 Distinction, University of Hertfordshire, Jan 2023 \u2013 Jul 2024",
+      "quote": "Master of Science (MSc) in Data Science \u2014 Distinction *University of Hertfordshire, London, UK* | *Jan 2023 \u2013 Jul 2024*",
+      "id": "evidence:EV-26"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Bachelor of Technology in Information Technology, SRM University, Aug 2009 \u2013 Jun 2013",
+      "quote": "Bachelor of Technology in Information Technology *SRM University, Chennai, India* | *Aug 2009 \u2013 Jun 2013*",
+      "id": "evidence:EV-27"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Languages & Frameworks: Python, PyTorch, scikit-learn, NumPy, Pandas, SciPy, Matplotlib",
+      "quote": "Languages & Frameworks: Python, PyTorch, scikit-learn, NumPy, Pandas, SciPy, Matplotlib",
+      "id": "evidence:EV-28"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Big Data & HPC Orchestration: Apache Airflow, PySpark, SQL, Linux, Git, Docker, Kubernetes, Azure, AWS",
+      "quote": "Big Data & HPC Orchestration: Apache Airflow, PySpark, SQL, Linux, Git, Docker, Kubernetes, Azure, AWS",
+      "id": "evidence:EV-29"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Software Engineer 3 (Predictive Systems & IoT Telemetry) at Boeing (Tek Infotree & HCL)",
+      "quote": "Software Engineer 3 (Predictive Systems & IoT Telemetry) *Boeing (Tek Infotree & HCL), Bangalore, India* | *May 2021 \u2013 Oct 2022*",
+      "id": "evidence:EV-30"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Data Scientist (AI / MLOps & Data Pipelines) at HCL Technologies",
+      "quote": "Data Scientist (AI / MLOps & Data Pipelines) *HCL Technologies, India* | *Dec 2024 \u2013 May 2025*",
+      "id": "evidence:EV-31"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (Distinction) in Data Science, University of Hertfordshire",
+      "quote": "Holding a Master of Science (Distinction) in Data Science from the University of Hertfordshire",
+      "id": "evidence:EV-32"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "email",
+      "content": "chandankumar.dev@outlook.com",
+      "quote": "chandankumar.dev@outlook.com",
+      "id": "evidence:EV-33"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "work_experience",
+      "content": "Software Engineer 3 at Boeing",
+      "quote": "Sensor Stream Ingestion & Modeling (Boeing): As a Software Engineer 3, I developed cloud-native architectures on Microsoft Azure to ingest and process high-frequency telemetry",
+      "id": "evidence:EV-34"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Apache Airflow",
+      "quote": "automated, multi-step data pipelines using Apache Airflow",
+      "id": "evidence:EV-35"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "PySpark",
+      "quote": "using Apache Airflow and PySpark",
+      "id": "evidence:EV-36"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "project",
+      "content": "Optimising Ensemble Learning for Diabetes Prediction \u2013 Master\u2019s research project",
+      "quote": "During my Master\u2019s research, Optimising Ensemble Learning for Diabetes Prediction",
+      "id": "evidence:EV-37"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research_interests",
+      "content": "Air pollutant satellite retrievals",
+      "quote": "Smart preparation of air pollutant satellite retrievals for optimizing emission inventory data",
+      "id": "evidence:EV-38"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "MSc in Data Science (Distinction) from UK",
+      "quote": "I hold an MSc in Data Science (Distinction) from the UK",
+      "id": "evidence:EV-39"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Academic thesis focused on uncertainty-aware machine learning over noisy, heterogeneous datasets",
+      "quote": "My academic thesis focused on uncertainty-aware machine learning over noisy, heterogeneous datasets",
+      "id": "evidence:EV-40"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Experience with Apache Airflow and PySpark",
+      "quote": "at HCL and EY, I orchestrated multi-step automated data pipelines using Apache Airflow and PySpark",
+      "id": "evidence:EV-41"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Engineering cloud-native telemetry ingestion pipelines",
+      "quote": "At Boeing, I engineered cloud-native telemetry ingestion pipelines to model complex multi-sensor streams",
+      "id": "evidence:EV-42"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "project",
+      "content": "Interest in smart data preparation for satellite retrievals",
+      "quote": "Your project\u2019s goal of developing smart data preparation and machine learning methods for satellite retrievals (Sentinel-5P) to optimize emission inventories is an exact match",
+      "id": "evidence:EV-43"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "contact",
+      "content": "Chandan Kumar",
+      "quote": "**Chandan Kumar**",
+      "id": "evidence:EV-44"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "email",
+      "content": "chandankumar.dev@outlook.com",
+      "quote": "`chandankumar.dev@outlook.com`",
+      "id": "evidence:EV-45"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "phone",
+      "content": "+91 74828 56394",
+      "quote": "`+91 74828 56394`",
+      "id": "evidence:EV-46"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "location",
+      "content": "Ghaziabad, India",
+      "quote": "Ghaziabad, India",
+      "id": "evidence:EV-47"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "date",
+      "content": "August 10, 2026",
+      "quote": "August 10, 2026",
+      "id": "evidence:EV-48"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master\u2019s thesis at the University of Hertfordshire",
+      "quote": "My Master\u2019s thesis at the University of Hertfordshire involved optimizing machine learning ensembles for diabetes prediction using Electronic Health Records",
+      "id": "evidence:EV-49"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skills",
+      "content": "autonomous AI agents",
+      "quote": "designed and deployed autonomous AI agents",
+      "id": "evidence:EV-50"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skills",
+      "content": "LangGraph-based orchestration workflows",
+      "quote": "LangGraph-based orchestration workflows",
+      "id": "evidence:EV-51"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skills",
+      "content": "CI/CD pipelines",
+      "quote": "robust CI/CD pipelines",
+      "id": "evidence:EV-52"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skills",
+      "content": "vector embeddings",
+      "quote": "vector embeddings",
+      "id": "evidence:EV-53"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Merck",
+      "quote": "deploying agentic solutions for Merck in the life sciences sector",
+      "id": "evidence:EV-54"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research_interest",
+      "content": "AI security",
+      "quote": "Requirements Engineering, AI and Security",
+      "id": "evidence:EV-55"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research_interest",
+      "content": "adversarial attack surfaces",
+      "quote": "novel adversarial attack surfaces",
+      "id": "evidence:EV-56"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "proposed_research",
+      "content": "develop threat models for agentic RE",
+      "quote": "My research will focus on developing comprehensive threat models to map these exact attack vectors",
+      "id": "evidence:EV-57"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "MSc in Data Science (Distinction) from the UK",
+      "quote": "I hold an MSc in Data Science (Distinction) from the UK",
+      "id": "evidence:EV-58"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Investigates how non-linear agentic loops and autonomous tool usage break traditional requirements traceability and expose systems to prompt injection and runtime drift",
+      "quote": "My independent working paper, *Governing Responsible and Sustainable AI Across the Lifecycle*, investigates how non-linear agentic loops and autonomous tool usage break traditional requirements traceability and expose systems to prompt injection and runtime drift",
+      "id": "evidence:EV-59"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Deploying enterprise multi-agent workflows at EY and Deloitte",
+      "quote": "I hold ... 8+ years of industry experience deploying enterprise multi-agent workflows at EY and Deloitte",
+      "id": "evidence:EV-60"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "publication",
+      "content": "Governing Responsible and Sustainable AI Across the Lifecycle",
+      "quote": "My independent working paper, *Governing Responsible and Sustainable AI Across the Lifecycle*, ...",
+      "id": "evidence:EV-61"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (Distinction) in Data Science from the University of Hertfordshire",
+      "quote": "Master of Science (Distinction) in Data Science from the University of Hertfordshire.",
+      "id": "evidence:EV-62"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "publication",
+      "content": "Optimising Ensemble Learning for Diabetes Prediction: A Comparative Study",
+      "quote": "Optimising Ensemble Learning for Diabetes Prediction: A Comparative Study",
+      "id": "evidence:EV-63"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "publication",
+      "content": "Governing Responsible and Sustainable AI Across the Lifecycle",
+      "quote": "Governing Responsible and Sustainable AI Across the Lifecycle",
+      "id": "evidence:EV-64"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Python programming",
+      "quote": "programming proficiency in Python",
+      "id": "evidence:EV-65"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Boeing: deployed scalable predictive maintenance systems on Microsoft Azure",
+      "quote": "deployed scalable predictive maintenance systems on Microsoft Azure for Boeing",
+      "id": "evidence:EV-66"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Develop advanced system mechanisms for security monitoring and Automotive Digital Forensics",
+      "quote": "developing advanced system mechanisms for security monitoring and Automotive Digital Forensics (ADF)",
+      "id": "evidence:EV-67"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "MSc in Data Science (Distinction) from the UK",
+      "quote": "I hold an MSc in Data Science (Distinction) from the UK",
+      "id": "evidence:EV-68"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "IoT sensor telemetry at Boeing",
+      "quote": "IoT sensor telemetry at Boeing and adversarial AI robustness at EY/Deloitte",
+      "id": "evidence:EV-69"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Adversarial AI robustness at EY/Deloitte",
+      "quote": "IoT sensor telemetry at Boeing and adversarial AI robustness at EY/Deloitte",
+      "id": "evidence:EV-70"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "8+ years of engineering experience",
+      "quote": "8+ years of engineering experience spanning IoT sensor telemetry at Boeing and adversarial AI robustness at EY/Deloitte",
+      "id": "evidence:EV-71"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Statistical modeling and uncertainty-aware anomaly detection across high-risk datasets",
+      "quote": "My Master's thesis addressed statistical modeling and uncertainty-aware anomaly detection across high-risk datasets",
+      "id": "evidence:EV-72"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Automotive Digital Forensics, security monitoring, automotive data collection under safety constraints",
+      "quote": "Your project's focus on Automotive Digital Forensics (ADF), security monitoring, and automotive data collection under safety constraints (with Volvo Cars) matches my practical and empirical research focus",
+      "id": "evidence:EV-73"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "name",
+      "content": "Chandan Kumar",
+      "quote": "Chandan Kumar",
+      "id": "evidence:EV-74"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "email",
+      "content": "chandankumar.dev@outlook.com",
+      "quote": "chandankumar.dev@outlook.com",
+      "id": "evidence:EV-75"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (Distinction) in Data Science",
+      "quote": "Master of Science (Distinction) in Data Science",
+      "id": "evidence:EV-76"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Python",
+      "quote": "Python",
+      "id": "evidence:EV-77"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "cloud computing",
+      "quote": "cloud computing",
+      "id": "evidence:EV-78"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "AI architectures",
+      "quote": "AI architectures",
+      "id": "evidence:EV-79"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "EY",
+      "quote": "EY",
+      "id": "evidence:EV-80"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Deloitte",
+      "quote": "Deloitte",
+      "id": "evidence:EV-81"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "HCL",
+      "quote": "HCL",
+      "id": "evidence:EV-82"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Boeing",
+      "quote": "Boeing",
+      "id": "evidence:EV-83"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Data-Driven Product Realization (DRIVE PR)",
+      "quote": "Data-Driven Product Realization (DRIVE PR)",
+      "id": "evidence:EV-84"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (Distinction) in Data Science from University of Hertfordshire (UK)",
+      "quote": "With a Master of Science (Distinction) in Data Science from the University of Hertfordshire (UK) and eight years of experience building scalable data architectures, processing high-dimensional sensor telemetry, and deploying machine learning pipelines, I am eager to contribute to next-generation data-driven meteorological forecasting for renewable energy systems.",
+      "id": "evidence:EV-85"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Optimising Ensemble Learning for Diabetes Prediction",
+      "quote": "During my Master\u2019s research, *Optimising Ensemble Learning for Diabetes Prediction*, I focused on uncertainty-aware modeling over complex, high-risk, and heterogeneous data streams.",
+      "id": "evidence:EV-86"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Advanced proficiency in Python, PyTorch, Linux, Git, Docker, and distributed computing",
+      "quote": "Advanced proficiency in Python, PyTorch, Linux, Git, Docker, and distributed computing, ensuring scalable and reproducible experimental execution.",
+      "id": "evidence:EV-87"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Boeing \u2013 Architected cloud-native AI pipelines on Microsoft Azure",
+      "quote": "Architected cloud-native AI pipelines on Microsoft Azure to process continuous, high-volume sensor and telemetry data, modeling temporal dependencies under operational noise.",
+      "id": "evidence:EV-88"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "HCL & EY \u2013 Engineered automated pipelines using Apache Airflow and PySpark",
+      "quote": "Engineered automated pipelines using Apache Airflow and PySpark, managing multi-terabyte datasets, data validation, and automated feature stores.",
+      "id": "evidence:EV-89"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "MSc in Data Science (Distinction) from the UK",
+      "quote": "I hold an MSc in Data Science (Distinction) from the UK",
+      "id": "evidence:EV-90"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Deep learning, satellite remote sensing, renewable energy weather forecasting",
+      "quote": "at the intersection of deep learning, satellite remote sensing, and renewable energy weather forecasting",
+      "id": "evidence:EV-91"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "cloud-native telemetry ingestion pipelines, Apache Airflow, PySpark",
+      "quote": "engineered cloud-native telemetry ingestion pipelines ... orchestrated multi-step data pipelines using Apache Airflow and PySpark",
+      "id": "evidence:EV-92"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "project",
+      "content": "Thesis focused on uncertainty-aware machine learning over noisy, high-dimensional datasets",
+      "quote": "My academic thesis focused on uncertainty-aware machine learning over noisy, high-dimensional datasets",
+      "id": "evidence:EV-93"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "8+ years professional engineering experience across Boeing, EY, Deloitte, HCL",
+      "quote": "I hold an MSc in Data Science (Distinction) from the UK and bring 8+ years of professional engineering experience across Boeing, EY, and Deloitte",
+      "id": "evidence:EV-94"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Prospective PhD research combining deep learning, satellite remote sensing, and renewable energy weather forecasting",
+      "quote": "I am writing to express my strong interest in doctoral opportunities at the intersection of deep learning, satellite remote sensing, and renewable energy weather forecasting",
+      "id": "evidence:EV-95"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (MSc) in Data Science (Distinction), University of Hertfordshire, Jan 2023 \u2013 Jul 2024",
+      "quote": "Master of Science (MSc) in Data Science (Distinction) \u2013 Jan 2023 \u2013 Jul 2024 \u2013 University of Hertfordshire",
+      "id": "evidence:EV-96"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Investigated reliability and robustness of probabilistic outputs in machine learning ensembles",
+      "quote": "Investigated the reliability and robustness of probabilistic outputs and non-deterministic behavior in machine learning ensembles (VotingClassifier, Random Forest) using complex, high-risk Electronic Health Records (EHR).",
+      "id": "evidence:EV-97"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "LangGraph, LangChain, LLMs (GPT-4)",
+      "quote": "LangChain, LangGraph, LLMs (GPT-4) \u2013 RAG, Vector Databases (pgvector) \u2013 Ensemble Learning",
+      "id": "evidence:EV-98"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "publication",
+      "content": "Governing Responsible and Sustainable AI Across the Lifecycle: Organisational Capabilities for Agentic AI in Regulated Industries (Working Paper)",
+      "quote": "Working Paper: Governing Responsible and Sustainable AI Across the Lifecycle: Organisational Capabilities for Agentic AI in Regulated Industries",
+      "id": "evidence:EV-99"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Architect multi-agent systems and agentic pipelines for enterprise environments",
+      "quote": "Architect multi-agent systems and agentic pipelines for enterprise environments (SAP, Dynamics, mainframe architectures).",
+      "id": "evidence:EV-100"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Develop threat models for agentic pipelines",
+      "quote": "My research will focus on developing comprehensive threat models to map these exact attack vectors across the continuous requirements evolution pipeline.",
+      "id": "evidence:EV-101"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "project",
+      "content": "Autonomous AI agents deployment",
+      "quote": "I have designed and deployed autonomous AI agents and LangGraph-based orchestration workflows for enterprise environments, including the healthcare and energy sectors.",
+      "id": "evidence:EV-102"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Merck deployment",
+      "quote": "Deploying agentic solutions for Merck in the life sciences sector.",
+      "id": "evidence:EV-103"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "CI/CD and vector embeddings",
+      "quote": "My extensive hands\u2011on experience with robust CI/CD pipelines, vector embeddings, and agentic orchestration ensures that I possess the technical maturity to begin designing and testing these threat models immediately.",
+      "id": "evidence:EV-104"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (Distinction) in Data Science",
+      "quote": "Master of Science (Distinction) in Data Science, I am eager to transition from enterprise applications into foundational, world-class applied research",
+      "id": "evidence:EV-105"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Python, cloud computing, AI architectures",
+      "quote": "deep technical proficiency in Python, cloud computing, and AI architectures",
+      "id": "evidence:EV-106"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Professional career spanning EY, Deloitte, HCL, and Boeing",
+      "quote": "Throughout my professional career\u2014spanning roles at EY, Deloitte, HCL, and Boeing\u2014I have focused on building scalable systems, data pipelines, and advanced machine learning models.",
+      "id": "evidence:EV-107"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Data-Driven Product Realization (DRIVE PR) initiative",
+      "quote": "I am particularly motivated by the opportunity to contribute to the DRIVE PR initiative, whether through data-driven geometry assurance, robust design, or model-based systems engineering like the Sijet project.",
+      "id": "evidence:EV-108"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "MSc Data Science, University of Hertfordshire (Distinction)",
+      "quote": "University of Hertfordshire (MSc Data Science - Distinction)",
+      "id": "evidence:EV-109"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Optimising Ensemble Learning for Diabetes Prediction thesis",
+      "quote": "Optimising Ensemble Learning for Diabetes Prediction: A Comparative Study",
+      "id": "evidence:EV-110"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Working paper on governing responsible AI",
+      "quote": "Working Paper: Governing Responsible and Sustainable AI Across the Lifecycle: Organisational Capabilities for Agentic AI in Regulated Industries",
+      "id": "evidence:EV-111"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "project",
+      "content": "Predictive Maintenance Systems on Microsoft Azure for Boeing",
+      "quote": "Predictive Maintenance Systems (Boeing): As a Software Engineer 3, I developed and deployed scalable AI-driven predictive maintenance systems on Microsoft Azure.",
+      "id": "evidence:EV-112"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Software Engineer 3 at Boeing",
+      "quote": "Software Engineer 3, I developed and deployed scalable AI-driven predictive maintenance systems on Microsoft Azure.",
+      "id": "evidence:EV-113"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "AI Developer and Manager at Deloitte & EY",
+      "quote": "AI Developer and Manager, I designed distributed, multi-agent intelligent systems using Python, LangGraph, and cloud-native RAG architectures.",
+      "id": "evidence:EV-114"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "MSc Data Science Distinction from the UK",
+      "quote": "MSc Data Science Distinction",
+      "id": "evidence:EV-115"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Enterprise data pipelines with Apache Airflow, PySpark",
+      "quote": "building enterprise data pipelines (Apache Airflow, PySpark)",
+      "id": "evidence:EV-116"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Deploying Agentic systems (LangChain, LangGraph)",
+      "quote": "deploying Agentic systems (LangChain, LangGraph)",
+      "id": "evidence:EV-117"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Managing cloud infrastructure (Azure, AWS)",
+      "quote": "managing cloud infrastructure (Azure, AWS)",
+      "id": "evidence:EV-118"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "8 years of enterprise software and AI architecture experience at EY, Deloitte, Boeing",
+      "quote": "8 years of enterprise software and AI architecture experience (EY, Deloitte, Boeing)",
+      "id": "evidence:EV-119"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "AI & Earth Observation/Climate",
+      "quote": "Best 5 Research Areas: AI & Earth Observation/Climate",
+      "id": "evidence:EV-120"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Agentic AI for Industrial Systems",
+      "quote": "Agentic AI for Industrial Systems",
+      "id": "evidence:EV-121"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Distributed AI for Smart Infrastructure",
+      "quote": "Distributed AI for Smart Infrastructure",
+      "id": "evidence:EV-122"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Data-Driven Physics/Engineering",
+      "quote": "Data-Driven Physics/Engineering",
+      "id": "evidence:EV-123"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Sustainable MLOps & Governance",
+      "quote": "Sustainable MLOps & Governance",
+      "id": "evidence:EV-124"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "project",
+      "content": "Uncertainty handling in heterogeneous datasets (MSc thesis)",
+      "quote": "MSc Distinction thesis focus on uncertainty handling in heterogeneous datasets",
+      "id": "evidence:EV-125"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (Distinction) in Data Science",
+      "quote": "Master of Science (Distinction) in Data Science from the University of Hertfordshire.",
+      "id": "evidence:EV-126"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "publication",
+      "content": "Optimising Ensemble Learning for Diabetes Prediction: A Comparative Study",
+      "quote": "Optimising Ensemble Learning for Diabetes Prediction: A Comparative Study",
+      "id": "evidence:EV-127"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "publication",
+      "content": "Governing Responsible and Sustainable AI Across the Lifecycle",
+      "quote": "Governing Responsible and Sustainable AI Across the Lifecycle",
+      "id": "evidence:EV-128"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Python programming",
+      "quote": "strong programming proficiency in Python",
+      "id": "evidence:EV-129"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science (Distinction) in Data Science, University of Hertfordshire",
+      "quote": "Master of Science (Distinction) in Data Science from the University of Hertfordshire",
+      "id": "evidence:EV-130"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Python",
+      "quote": "Python",
+      "id": "evidence:EV-131"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "C#",
+      "quote": "C#",
+      "id": "evidence:EV-132"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "SQL Server",
+      "quote": "SQL Server",
+      "id": "evidence:EV-133"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Docker",
+      "quote": "Docker",
+      "id": "evidence:EV-134"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "Kubernetes",
+      "quote": "Kubernetes",
+      "id": "evidence:EV-135"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "CI/CD pipelines",
+      "quote": "CI/CD pipelines",
+      "id": "evidence:EV-136"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Software Engineer 3 at Boeing",
+      "quote": "Software Engineer 3 at Boeing",
+      "id": "evidence:EV-137"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Senior Software Engineer at British Telecom",
+      "quote": "Senior Software Engineer at British Telecom",
+      "id": "evidence:EV-138"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "experience",
+      "content": "Deloitte and HCL Technologies",
+      "quote": "Deloitte and HCL Technologies",
+      "id": "evidence:EV-139"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "project",
+      "content": "Optimising Ensemble Learning for Diabetes Prediction",
+      "quote": "Optimising Ensemble Learning for Diabetes Prediction",
+      "id": "evidence:EV-140"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "personal",
+      "content": "Name: Chandan Kumar",
+      "quote": "Name: Chandan Kumar",
+      "id": "evidence:EV-141"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "education",
+      "content": "Master of Science in Data Science and Analytics at the University of Hertfordshire (UH)",
+      "quote": "Master of Science in Data Science and Analytics at the University of Hertfordshire (UH)",
+      "id": "evidence:EV-142"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "ensemble learning algorithms in diabetes prediction",
+      "quote": "ensemble learning algorithms in diabetes prediction",
+      "id": "evidence:EV-143"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research",
+      "content": "Electronic Health Records (EHRs)",
+      "quote": "Electronic Health Records (EHRs)",
+      "id": "evidence:EV-144"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "skill",
+      "content": "data collection, preprocessing, algorithm selection, implementation, evaluation",
+      "quote": "data collection, preprocessing, algorithm selection, implementation, evaluation",
+      "id": "evidence:EV-145"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "project",
+      "content": "Optimising Ensemble Learning for Diabetes Prediction",
+      "quote": "Optimising Ensemble Learning for Diabetes Prediction",
+      "id": "evidence:EV-146"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "proposed_research",
+      "content": "This thesis aims to explore ensemble learning algorithms in diabetes prediction",
+      "quote": "This thesis aims to explore ensemble learning algorithms in diabetes prediction",
+      "id": "evidence:EV-147"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research_problem",
+      "content": "Governance Gap in Artificial Intelligence",
+      "quote": "Governance Gap in Artificial Intelligence",
+      "id": "evidence:EV-148"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "AI_lifecycle",
+      "content": "Responsible AI governance must span the entire AI lifecycle",
+      "quote": "Responsible AI governance must span the entire AI lifecycle",
+      "id": "evidence:EV-149"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "sustainability",
+      "content": "Sustainable AI governance must address social, economic and environmental sustainability",
+      "quote": "sustainable AI governance must address social sustainability",
+      "id": "evidence:EV-150"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "research_question",
+      "content": "Central research question: How can organisations develop and operationalise governance capabilities for responsible and sustainable AI across the full AI lifecycle?",
+      "quote": "How can organisations develop and operationalise governance capabilities for responsible and sustainable AI across the full AI lifecycle",
+      "id": "evidence:EV-151"
+    },
+    {
+      "node_type": "EvidenceItem",
+      "category": "practical_significance",
+      "content": "A practical governance framework for responsible and sustainable AI",
+      "quote": "A practical governance framework for responsible and sustainable AI",
+      "id": "evidence:EV-152"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhDFinder | Fully Funded PhD, Postdoc & Master Opportunities Worldwide",
+      "funding": "",
+      "country": "",
+      "url": "https://phdfinder.com/",
+      "id": "opportunity:1"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "DAAD Scholarships - An Overview - DAAD",
+      "funding": "",
+      "country": "",
+      "url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/",
+      "id": "opportunity:2"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Funding in Germany - A Guide for 2026 | FindAPhD.com",
+      "funding": "",
+      "country": "",
+      "url": "https://www.findaphd.com/guides/phd-study-in-germany/funding",
+      "id": "opportunity:3"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Navigation and service",
+      "funding": "",
+      "country": "",
+      "url": "https://www.bmftr.bund.de/EN/Research/ScienceSystem/AcademicCareers/DoctoralScholarships/doctoralscholarships_node.html",
+      "id": "opportunity:4"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Computational condensed matter physics",
+      "funding": "MSCA doctoral program",
+      "country": "",
+      "url": "https://euraxess.ec.europa.eu/worldwide/north-america/news/sweden-and-netherlands-16-fully-funded-phd-positions",
+      "id": "opportunity:5"
+    },
+    {
+      "node_type": "Institution",
+      "name": "Link\u00f6ping University",
+      "id": "institution:link\u00f6ping university"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "German Research Institutions",
+      "funding": "",
+      "country": "",
+      "url": "https://gerit.org/en/",
+      "id": "opportunity:6"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Research in Germany",
+      "funding": "",
+      "country": "",
+      "url": "https://www.research-in-germany.org/en/",
+      "id": "opportunity:7"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Finding Scholarships",
+      "funding": "funded mentioned",
+      "country": "DE",
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135739",
+      "id": "opportunity:8"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Cookie Consent",
+      "funding": "",
+      "country": "DE",
+      "url": "https://www.daad.de/en/studying-in-germany/phd-studies-research/phdgermany//phdgermany-info/",
+      "id": "opportunity:9"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "73 artificial-intelligence-phd scholarship or positions in Germany",
+      "funding": "",
+      "country": "DE",
+      "url": "https://scholarshipdb.net/artificial-intelligence-phd-scholarships-in-Germany",
+      "id": "opportunity:10"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Researcher - Agentic AI",
+      "funding": "",
+      "country": "CH",
+      "url": "https://jobs.ethz.ch/job/view/JOPG_ethz_j0mlVvMYoF7ABNHYcq",
+      "id": "opportunity:11"
+    },
+    {
+      "node_type": "Supervisor",
+      "name": "Ada Lovelace",
+      "id": "supervisor:ada lovelace"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Scholarships in Germany for International Students 2026",
+      "funding": "",
+      "country": "DE",
+      "url": "https://www.studying-in-germany.org/scholarships/",
+      "id": "opportunity:12"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "A state-of-the-art degree in research",
+      "funding": "",
+      "country": "DE",
+      "url": "https://www.mpg.de/en/imprs",
+      "id": "opportunity:13"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "14 Postdoctoral Fellowships at Stanford University, Stanford, California",
+      "funding": "fellowship",
+      "country": "",
+      "url": "https://fellowshipbard.com/14-postdoctoral-fellowships-at-stanford-university-stanford-california-2/",
+      "id": "opportunity:14"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "14 Postdoctoral Fellowships at Stanford University, Stanford, California",
+      "funding": "fellowship",
+      "country": "",
+      "url": "https://fellowshipbard.com/14-postdoctoral-fellowships-at-stanford-university-stanford-california/",
+      "id": "opportunity:15"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Artificial Intelligence PhD projects - 513 PhDs Listed - FindAPhD",
+      "funding": "",
+      "country": "",
+      "url": "https://www.findaphd.com/phds/artificial-intelligence/?30M7g2t1",
+      "id": "opportunity:16"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Studentship: Agentic AI and Intelligent Autonomous Systems",
+      "funding": "funded mentioned",
+      "country": "GB",
+      "url": "https://www.jobs.ac.uk/job/DSO137/phd-studentship-agentic-ai-and-intelligent-autonomous-systems",
+      "id": "opportunity:17"
+    },
+    {
+      "node_type": "Institution",
+      "name": "City St George\u2019s, University of London",
+      "id": "institution:city st george\u2019s, university of london"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Europe: 50+ Funded PhD Positions",
+      "funding": "funded mentioned",
+      "country": "",
+      "url": "https://euraxess.ec.europa.eu/worldwide/north-america/news/europe-50-funded-phd-positions",
+      "id": "opportunity:18"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Europe: 15 fully funded PhD positions in computer science, AI, control systems engineering, and human-centered for resilience design for large-scale cyber-physical systems",
+      "funding": "funded mentioned",
+      "country": "",
+      "url": "https://euraxess.ec.europa.eu/worldwide/india/news/europe-15-fully-funded-phd-positions-computer-science-ai-control-systems",
+      "id": "opportunity:19"
+    },
+    {
+      "node_type": "Supervisor",
+      "name": "Nacim Ramdani",
+      "id": "supervisor:nacim ramdani"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Studentship: Agentic AI and Intelligent Autonomous Systems",
+      "funding": "Fully funded studentship (tuition fees and maintenance stipend)",
+      "country": "GB",
+      "url": "https://www.city.ac.uk/about/working-at-city",
+      "id": "opportunity:20"
+    },
+    {
+      "node_type": "Institution",
+      "name": "City St George's, University of London",
+      "id": "institution:city st george's, university of london"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Position: Long-Term Reasoning and Adaptive Learning for Human-Aware Robot Autonomy",
+      "funding": "Fully funded (salaried university employee)",
+      "country": "NL",
+      "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs",
+      "id": "opportunity:21"
+    },
+    {
+      "node_type": "Institution",
+      "name": "Delft University of Technology (TU Delft)",
+      "id": "institution:delft university of technology (tu delft)"
+    },
+    {
+      "node_type": "Supervisor",
+      "name": "Dr. Laura Ferranti",
+      "id": "supervisor:dr. laura ferranti"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Doctoral Researcher in Trustworthy World Models for Critical Systems",
+      "funding": "Fully funded (salaried doctoral contract)",
+      "country": "",
+      "url": "https://recruitment.uni.lu",
+      "id": "opportunity:22"
+    },
+    {
+      "node_type": "Institution",
+      "name": "University of Luxembourg (Interdisciplinary Centre for Security, Reliability and Trust - SnT)",
+      "id": "institution:university of luxembourg (interdisciplinary centre for security, reliability and trust - snt)"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Fellowships in Embodied Artificial Intelligence and Autonomous Robotic Systems",
+      "funding": "Fully funded (standard Norwegian doctoral employment salary)",
+      "country": "NO",
+      "url": "https://www.oslomet.no/en/about/career-at-oslomet",
+      "id": "opportunity:23"
+    },
+    {
+      "node_type": "Institution",
+      "name": "Oslo Metropolitan University (OsloMet)",
+      "id": "institution:oslo metropolitan university (oslomet)"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Position: Foundational Models and Intelligent Scenario Generation for Autonomous Vehicles",
+      "funding": "Fully funded (salaried position under TV-L E13)",
+      "country": "DE",
+      "url": "https://www.tum.de/en/about-tum/careers-and-jobs",
+      "id": "opportunity:24"
+    },
+    {
+      "node_type": "Institution",
+      "name": "Technical University of Munich (TUM)",
+      "id": "institution:technical university of munich (tum)"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Position: Long-Term Reasoning and Adaptive Learning for Human-Aware Robot Autonomy",
+      "funding": "fully funded (salaried employee)",
+      "country": "NL",
+      "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/vacancies",
+      "id": "opportunity:25"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Fellowships in Knowledge-Driven Machine Learning and Trustworthy AI",
+      "funding": "fully funded (salaried employee fellowship)",
+      "country": "NO",
+      "url": "https://www.nora.ai/vacancies/",
+      "id": "opportunity:26"
+    },
+    {
+      "node_type": "Institution",
+      "name": "University of Oslo / UiT The Arctic University of Norway",
+      "id": "institution:university of oslo / uit the arctic university of norway"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Fellowships in Embodied Artificial Intelligence and Autonomous Robotic Systems",
+      "funding": "fully funded (salaried employee fellowship, 3 years)",
+      "country": "NO",
+      "url": "https://www.oslomet.no/en/about/career-opportunities",
+      "id": "opportunity:27"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD Fellowship(s) in AI Safety and Mechanistic Interpretability of Language Models",
+      "funding": "fully funded (salaried employee fellowship)",
+      "country": "DK",
+      "url": "https://www.sdu.dk/en/service/ledige_stillinger",
+      "id": "opportunity:28"
+    },
+    {
+      "node_type": "Institution",
+      "name": "University of Southern Denmark (SDU)",
+      "id": "institution:university of southern denmark (sdu)"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Fully Funded PhD Positions in Robotics and Artificial Intelligence",
+      "funding": "fully funded",
+      "country": "",
+      "url": "https://heron-robotics-coe.eu/",
+      "id": "opportunity:29"
+    },
+    {
+      "node_type": "Institution",
+      "name": "National Technical University of Athens (NTUA) / HERON Robotics Center of Excellence",
+      "id": "institution:national technical university of athens (ntua) / heron robotics center of excellence"
+    },
+    {
+      "node_type": "Supervisor",
+      "name": "Prof. Petros Maragos, Prof. Costas Tzafestas, Assist. Prof. Panagiotis Vartholomeos",
+      "id": "supervisor:prof. petros maragos, prof. costas tzafestas, assist. prof. panagiotis vartholomeos"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Fully-Funded PhD Positions in Responsible and Trustworthy AI",
+      "funding": "fully funded (salaried university assistant)",
+      "country": "",
+      "url": "https://ellis.eu/jobs",
+      "id": "opportunity:30"
+    },
+    {
+      "node_type": "Institution",
+      "name": "University of Vienna",
+      "id": "institution:university of vienna"
+    },
+    {
+      "node_type": "Supervisor",
+      "name": "Prof. Dr. Martin Pawelczyk",
+      "id": "supervisor:prof. dr. martin pawelczyk"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "8 x Fully Funded PhD Positions in AI Agent Security",
+      "funding": "fully funded (tuition fees + UKRI stipend)",
+      "country": "GB",
+      "url": "https://www.lancaster.ac.uk/scc/study/phd/funded-phd-opportunities/",
+      "id": "opportunity:31"
+    },
+    {
+      "node_type": "Institution",
+      "name": "Lancaster University",
+      "id": "institution:lancaster university"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "PhD in Agentic AI",
+      "funding": "fully funded",
+      "country": "",
+      "url": "https://tudelft.nl/phd/agentic-ai",
+      "id": "opportunity:32"
+    },
+    {
+      "node_type": "Institution",
+      "name": "TU Delft",
+      "id": "institution:tu delft"
+    },
+    {
+      "node_type": "Supervisor",
+      "name": "Prof. Smith",
+      "id": "supervisor:prof. smith"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "04 Fully Funded PhD Programs at Ume\u00e5 University, Ume\u00e5, Sweden",
+      "funding": "fellowship",
+      "country": "SE",
+      "url": "https://fellowshipbard.com/04-fully-funded-phd-programs-at-umea-university-umea-sweden-2/",
+      "id": "opportunity:33"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "10 Fully Funded PhD Programs at KTH Royal Institute of Technology, Stockholm, Sweden",
+      "funding": "fellowship",
+      "country": "SE",
+      "url": "https://fellowshipbard.com/10-fully-funded-phd-programs-at-kth-royal-institute-of-technology-stockholm-sweden/",
+      "id": "opportunity:34"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "12 Fully Funded PhD Programs at Leiden University, Leiden, Netherlands",
+      "funding": "fellowship",
+      "country": "NL",
+      "url": "https://fellowshipbard.com/12-fully-funded-phd-programs-at-leiden-university-leiden-netherlands-2/",
+      "id": "opportunity:35"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "12 Fully Funded PhD Programs at Ume\u00e5 University, Ume\u00e5, Sweden",
+      "funding": "fellowship",
+      "country": "SE",
+      "url": "https://fellowshipbard.com/12-fully-funded-phd-programs-at-umea-university-sweden/",
+      "id": "opportunity:36"
+    },
+    {
+      "node_type": "Opportunity",
+      "title": "Looking for a Postdoc? University of Texas at Austin Offers 07 Exciting Fellowship Positions",
+      "funding": "fellowship",
+      "country": "",
+      "url": "https://fellowshipbard.com/looking-for-a-postdoc-university-of-texas-at-austin-offers-07-exciting-fellowship-positions/",
+      "id": "opportunity:37"
+    },
+    {
+      "node_type": "Paper",
+      "title": "Cosmological constant\u2014the weight of the vacuum",
+      "authors": "T Padmanabhan",
+      "venue": "Physics Reports",
+      "id": "paper:1"
+    },
+    {
+      "node_type": "Paper",
+      "title": "Digital technologies in the public-health response to COVID-19",
+      "authors": "Jobie Budd, Benjamin S. Miller, Erin Manning, Vasileios Lampos",
+      "venue": "Nature Medicine",
+      "id": "paper:2"
+    },
+    {
+      "node_type": "Paper",
+      "title": "Ethics of AI in Education: Towards a Community-Wide Framework",
+      "authors": "W. Holmes, Ka\u015bka Porayska\u2010Pomsta, Ken Holstein, Emma Sutherland",
+      "venue": "International Journal of Artificial Intelligence in Education",
+      "id": "paper:3"
+    },
+    {
+      "node_type": "Paper",
+      "title": "Understanding nanoparticle endocytosis to improve targeting strategies in nanomedicine",
+      "authors": "Mauro Sousa de Almeida, Eva Su\u0161nik, Barbara Dra\u0161ler, Patricia Taladriz\u2010Blanco",
+      "venue": "Chemical Society Reviews",
+      "id": "paper:4"
+    },
+    {
+      "node_type": "Paper",
+      "title": "Interpretable machine learning",
+      "authors": "Parliamentary Office of Science and Technology, Lorna Christie",
+      "venue": "",
+      "id": "paper:5"
+    },
+    {
+      "node_type": "Paper",
+      "title": "Population structure and species description of aquatic Sphingomonadaceae",
+      "authors": "Hong Chen",
+      "venue": "Electronic Theses of LMU Munich (Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen)",
+      "id": "paper:6"
+    },
+    {
+      "node_type": "Paper",
+      "title": "Integrating time activity in environmental exposure assessment",
+      "authors": "Anna-Maria Ntarladima",
+      "venue": "",
+      "id": "paper:7"
+    }
+  ],
+  "edges": [
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:machine learning",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:data science",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:python",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:pytorch",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:scikit-learn",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:langgraph",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:langchain",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:generative ai",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:multi-agent systems",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:ensemble learning",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:probabilistic modeling",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:uncertainty quantification",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:differential privacy",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:apache airflow",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:pyspark",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:chromadb",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:vector databases",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:azure",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:aws",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:docker",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:kubernetes",
+      "key": 0
+    },
+    {
+      "relation": "HAS_SKILL",
+      "source": "candidate:me",
+      "target": "skill:linux",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:machine learning",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:and data science: trustworthy & responsible ai",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:agentic systems",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:foundation models",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:data-efficient & probabilistic machine learning",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:uncertainty quantification",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:ensemble learning on high-dimensional ehr data",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:ai safety & governance (eu ai act)",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:deep learning",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:differential privacy",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:multi-agent orchestration",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:satellite & geospatial data science",
+      "key": 0
+    },
+    {
+      "relation": "PURSUES_INTEREST",
+      "source": "candidate:me",
+      "target": "interest:mlops and distributed ai pipelines",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-1",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-2",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-3",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-4",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-5",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-6",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-7",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-8",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-9",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-10",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-11",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-12",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-13",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-14",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-15",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-16",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-17",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-18",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-19",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-20",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-21",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-22",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-23",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-24",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-25",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-26",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-27",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-28",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-29",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-30",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-31",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-32",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-33",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-34",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-35",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-36",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-37",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-38",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-39",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-40",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-41",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-42",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-43",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-44",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-45",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-46",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-47",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-48",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-49",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-50",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-51",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-52",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-53",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-54",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-55",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-56",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-57",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-58",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-59",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-60",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-61",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-62",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-63",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-64",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-65",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-66",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-67",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-68",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-69",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-70",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-71",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-72",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-73",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-74",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-75",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-76",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-77",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-78",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-79",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-80",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-81",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-82",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-83",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-84",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-85",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-86",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-87",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-88",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-89",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-90",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-91",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-92",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-93",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-94",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-95",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-96",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-97",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-98",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-99",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-100",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-101",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-102",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-103",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-104",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-105",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-106",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-107",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-108",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-109",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-110",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-111",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-112",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-113",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-114",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-115",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-116",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-117",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-118",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-119",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-120",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-121",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-122",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-123",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-124",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-125",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-126",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-127",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-128",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-129",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-130",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-131",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-132",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-133",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-134",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-135",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-136",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-137",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-138",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-139",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-140",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-141",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-142",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-143",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-144",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-145",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-146",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-147",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-148",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-149",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-150",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-151",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED_BY",
+      "source": "candidate:me",
+      "target": "evidence:EV-152",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:5",
+      "target": "institution:link\u00f6ping university",
+      "key": 0
+    },
+    {
+      "relation": "SUPERVISED_BY",
+      "source": "opportunity:11",
+      "target": "supervisor:ada lovelace",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:16",
+      "target": "skill:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:17",
+      "target": "institution:city st george\u2019s, university of london",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:17",
+      "target": "skill:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:17",
+      "target": "skill:multi-agent systems",
+      "key": 0
+    },
+    {
+      "relation": "SUPERVISED_BY",
+      "source": "opportunity:19",
+      "target": "supervisor:nacim ramdani",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:20",
+      "target": "institution:city st george's, university of london",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:20",
+      "target": "skill:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:20",
+      "target": "skill:python",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:21",
+      "target": "institution:delft university of technology (tu delft)",
+      "key": 0
+    },
+    {
+      "relation": "SUPERVISED_BY",
+      "source": "opportunity:21",
+      "target": "supervisor:dr. laura ferranti",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:21",
+      "target": "skill:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:21",
+      "target": "skill:machine learning",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:22",
+      "target": "institution:university of luxembourg (interdisciplinary centre for security, reliability and trust - snt)",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:22",
+      "target": "skill:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:22",
+      "target": "skill:machine learning",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:23",
+      "target": "institution:oslo metropolitan university (oslomet)",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:23",
+      "target": "skill:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:24",
+      "target": "institution:technical university of munich (tum)",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:24",
+      "target": "skill:machine learning",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:24",
+      "target": "skill:python",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:25",
+      "target": "institution:delft university of technology (tu delft)",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:25",
+      "target": "skill:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:26",
+      "target": "institution:university of oslo / uit the arctic university of norway",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:26",
+      "target": "skill:machine learning",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:26",
+      "target": "skill:data science",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:26",
+      "target": "skill:uncertainty quantification",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:27",
+      "target": "institution:oslo metropolitan university (oslomet)",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:27",
+      "target": "skill:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:28",
+      "target": "institution:university of southern denmark (sdu)",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:29",
+      "target": "institution:national technical university of athens (ntua) / heron robotics center of excellence",
+      "key": 0
+    },
+    {
+      "relation": "SUPERVISED_BY",
+      "source": "opportunity:29",
+      "target": "supervisor:prof. petros maragos, prof. costas tzafestas, assist. prof. panagiotis vartholomeos",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:29",
+      "target": "skill:artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:30",
+      "target": "institution:university of vienna",
+      "key": 0
+    },
+    {
+      "relation": "SUPERVISED_BY",
+      "source": "opportunity:30",
+      "target": "supervisor:prof. dr. martin pawelczyk",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:30",
+      "target": "skill:machine learning",
+      "key": 0
+    },
+    {
+      "relation": "REQUIRES_SKILL",
+      "source": "opportunity:30",
+      "target": "skill:multi-agent systems",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:31",
+      "target": "institution:lancaster university",
+      "key": 0
+    },
+    {
+      "relation": "HOSTED_BY",
+      "source": "opportunity:32",
+      "target": "institution:tu delft",
+      "key": 0
+    },
+    {
+      "relation": "SUPERVISED_BY",
+      "source": "opportunity:32",
+      "target": "supervisor:prof. smith",
+      "key": 0
+    }
+  ]
+}
